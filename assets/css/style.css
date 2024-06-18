@@ -2785,6 +2785,10 @@ div#mCSB_1_container{
 
 /** header-style-two **/
 
+.temporary-menu {
+  display: none;
+}
+
 .main-header.style-two .header-top{
   position: relative;
   background: #f1f0f6;
