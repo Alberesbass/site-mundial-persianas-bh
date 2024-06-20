@@ -1489,7 +1489,6 @@ div#mCSB_1_container {
   bottom: 0px;
   width: 40px;
   height: 20px;
-  background: #fff;
   z-index: 1;
 }
 
@@ -1499,7 +1498,6 @@ div#mCSB_1_container {
   bottom: 20px;
   width: 60px;
   height: 20px;
-  background: #fff;
   z-index: 1;
 }
 
@@ -1509,7 +1507,6 @@ div#mCSB_1_container {
   bottom: 0px;
   width: 160px;
   height: 20px;
-  background: #fff;
   z-index: 1;
 }
 
@@ -1519,7 +1516,6 @@ div#mCSB_1_container {
   bottom: 20px;
   width: 40px;
   height: 20px;
-  background: #fff;
   z-index: 1;
 }
 
@@ -1620,7 +1616,6 @@ div#mCSB_1_container {
   position: absolute;
   left: 0px;
   bottom: 0px;
-  background: #fff;
   width: 255px;
   height: 20px;
 }
@@ -1629,7 +1624,6 @@ div#mCSB_1_container {
   position: absolute;
   right: 0px;
   bottom: 0px;
-  background: #fff;
   width: 865px;
   height: 20px;
 }
@@ -6088,7 +6082,6 @@ div#mCSB_1_container {
 .contact-style-two:before {
   position: absolute;
   content: "";
-  background: #fff;
   width: 390px;
   height: 20px;
   left: 0px;
@@ -6099,7 +6092,6 @@ div#mCSB_1_container {
 .contact-style-two:after {
   position: absolute;
   content: "";
-  background: #fff;
   width: 390px;
   height: 20px;
   right: 0px;
