@@ -1409,6 +1409,7 @@ div#mCSB_1_container {
   position: relative;
   display: block;
   overflow: hidden;
+  box-shadow: 0 0px 20px rgba(0, 0, 0, 0.4);
 }
 
 .image_block_1 .image-box .image img {
@@ -1551,7 +1552,7 @@ div#mCSB_1_container {
   display: block;
   background: #fff;
   padding: 51px 30px 42px 30px;
-  box-shadow: 0 0px 20px rgba(0, 0, 0, 0.07);
+  box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
 }
 
 .feature-block-one .inner-box:before {
@@ -2021,7 +2022,7 @@ div#mCSB_1_container {
 .testimonial-section {
   position: relative;
   padding: 110px 0px;
-  margin-bottom: 115px;
+  margin-bottom: auto;
 }
 
 .testimonial-section .bg-layer {
